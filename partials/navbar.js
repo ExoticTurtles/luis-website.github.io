@@ -5,8 +5,8 @@ headerTemplate.innerHTML = `
 
 <link rel="stylesheet" href="./public/stylesheets/stylesheet.css">
 
-<header class="mb-auto bg-dark">
-<div>
+<header class="mb-auto">
+<div class="p-3">
 
 <h4 class="float-md-start mb-0">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-brush-fill" viewBox="0 0 16 16">
