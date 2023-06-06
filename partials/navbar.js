@@ -6,7 +6,7 @@ headerTemplate.innerHTML = `
 <link rel="stylesheet" href="./public/stylesheets/stylesheet.css">
 
 <header class="mb-auto">
-<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar sticky-top navbar-expand-lg">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Luis Daniel García Leal</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
