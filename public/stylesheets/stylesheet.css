@@ -110,3 +110,10 @@ hr{
     border-radius: 2px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
   }
+
+.contents{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    background: #ffffff;
+
+}
